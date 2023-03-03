@@ -1,1 +1,3 @@
-﻿  ScopedLock.vcxproj -> E:\OneDrive - Infotech (Private) Limited\GitFolders\Scoped_Lock\ScopedLock\x64\Debug\ScopedLock.exe
+﻿  Source1.cpp
+C:\Program Files\boost\boost_1_81_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  ScopedLock.vcxproj -> E:\OneDrive - Infotech (Private) Limited\GitFolders\Scoped_Lock\ScopedLock\x64\Debug\ScopedLock.exe

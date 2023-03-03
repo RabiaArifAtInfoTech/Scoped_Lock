@@ -110,13 +110,7 @@
 //	std::thread t1(f1, 1);
 //	std::thread t2(f1, 2);
 //
-//	/*t1.join();
-//
-//	t2.join();*/
-//
-//	/*t1.detach();
-//
-//	t2.detach();*/
+//	
 //
 //	std::cout << "thread 1 : " << t1.joinable() << '\n';
 //	std::cout << "thread 2 : " << t2.joinable() << '\n';
@@ -124,8 +118,6 @@
 //	if (t1.joinable()) t1.join();
 //	if (t2.joinable()) t2.join();
 //
-//	/*std::cout << t1.get_id() << std::endl;
-//	std::cout << t2.get_id() << std::endl;*/
 //
 //
 //	std::cout << "\n\n\n";
